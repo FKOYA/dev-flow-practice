@@ -4,3 +4,9 @@
 
 
 自分でやってみた。
+
+## 現在日時を出力するスクリプト
+
+```bash
+python scripts/current_datetime.py
+```
